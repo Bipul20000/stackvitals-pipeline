@@ -1,0 +1,5 @@
+Package_Name,Version,License,Dependencies_Count,Repository_URL,Minified_Size_Bytes,Gzipped_Size_Bytes,Download_Time_3G_ms,Open_Issues,Stars,Forks,Last_Commit_Date
+lodash,4.18.1,MIT,0,git+https://github.com/lodash/lodash.git,70159,25262,70093,137,61417,7128,2026-04-09T14:33:55Z
+moment,2.30.1,MIT,0,git+https://github.com/moment/moment.git,301440,77187,320403,297,48011,7016,2026-04-09T10:29:55Z
+express,5.2.1,MIT,28,git+https://github.com/expressjs/express.git,600449,241793,18707,209,68916,23062,2026-04-09T18:16:54Z
+react,19.2.5,MIT,0,git+https://github.com/facebook/react.git,7593,2908,7798,1223,244444,50906,2026-04-09T17:30:05Z
